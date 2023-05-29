@@ -1,3 +1,4 @@
+/* eslint-disable no-unreachable */
 //FUnctional Component
 // function App() {
 //   return (
@@ -12,7 +13,7 @@
 import React from "react";
 class App extends React.Component{
   render(){
-    return <h1>class Component</h1>
+    return <h1>class Component. This is the simple demo for how to create a react app.</h1>
   }
 }
 export default App;
